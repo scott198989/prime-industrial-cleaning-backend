@@ -27,10 +27,10 @@ ruby -v
 rails -v
 
 # Clone this repository
-git clone https://github.com/scott198989/prime-industrial-cleaning-backend.git
+git clone <please contact for permission>
 
 # Navigate to the project directory
-cd prime-industrial-cleaners
+cd <please contact for permission>
 
 # Install all the gems and dependencies
 bundle install
