@@ -4,7 +4,8 @@
 
 This application aims to manage the various aspects of the Prime Industrial Cleaners business. It handles tasks like tracking services, client management, and operational logistics.
 
-🔗 [Check out the frontend code here]https://github.com/scott198989/prime-industrial-frontend.git
+🔗 [Check out the frontend code here](https://github.com/scott198989/prime-industrial-frontend.git)
+
 ---
 
 ## Technology Stack 👨‍💻👩‍💻
